@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    I'm an computer science student and trainee learning new technologies one step at a time.
+    I'm a computer science student and trainee learning new technologies one step at a time.
 </P>
 
 <p align="center">
